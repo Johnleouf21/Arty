@@ -127,7 +127,7 @@ async function getAccounts() {
                             <ul className={styles.btnmarketplaceul}>
                                 <div className={styles.btnmarketplaceultextmint}>
                                     <h2>Mint Ticket</h2>
-                                    <p className={styles.btnmarketplaceulpresentationtexth1supply}>{data.MAX_SUPPLY - data.totalSupply} tickets NFT's restants</p></div>
+                                    <p className={styles.btnmarketplaceulpresentationtexth1supply}>{data.MAX_SUPPLY - data.totalSupply} tickets NFTs restants</p></div>
                                 <div className={styles.btnmarketplaceultextbalance}>
                                     <div className={styles.btnmarketplaceultextcontainer}>
                                         <h3>Solde</h3>
