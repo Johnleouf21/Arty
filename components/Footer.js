@@ -8,7 +8,7 @@ export default function Footer() {
                     <div className={styles.footerpresentationdefi}>
                         <div className={styles.footerpresentationdefidescription}>
                             <h3 className={styles.footerpresentationdefih3}><i className="fa-solid fa-ticket"></i> DeFi Lottery</h3>
-                            <h4 className={styles.footerpresentationdefih4}>DeFi Lottery lotterie basée sur la technologie blockchain et sécurisée grâce à l utilisation d'un contrat intelligent</h4>
+                            <h4 className={styles.footerpresentationdefih4}>DeFi Lottery lotterie basée sur la technologie blockchain et sécurisée grâce à l utilisation d un contrat intelligent</h4>
                         </div>
                     </div>
                     <div className={styles.footercredits}>
