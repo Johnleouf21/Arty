@@ -1,5 +1,6 @@
 import styles from '../styles/Home.module.css'
 import { useState } from 'react';
+import Link from 'next/link';
 
 
 export default function Header() {
@@ -19,7 +20,7 @@ export default function Header() {
 <header>
                 <nav>
                     <ul>
-                        <li className={styles.logo}><a href="/"><i className="fa-solid fa-ticket"></i> DeFi Lottery</a></li>
+                        <li className={styles.logo}><Link href="/"><i className="fa-solid fa-ticket"></i> DeFi Lottery</Link></li>
                         <div className="action" />
                         
                         <div className="menu">
