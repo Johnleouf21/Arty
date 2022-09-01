@@ -20,7 +20,7 @@ export default function Header() {
 <header>
                 <nav>
                     <ul>
-                        <li className={styles.logo}><Link href="/"><i className="fa-solid fa-ticket"></i> DeFi Lottery</Link></li>
+                        <li className={styles.logo}><Link href="/"> DeFi Lottery</Link></li>
                         <div className="action" />
                         
                         <div className="menu">
