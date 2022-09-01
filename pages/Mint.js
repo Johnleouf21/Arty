@@ -67,7 +67,7 @@ export default function Mint() {
                 }
                 const transaction = await contract.saleMint(accounts[0], ammount, overrides);
                 await transaction.wait();
-                fetchData();
+                
             }
             catch (err) {
                 console.log(err);

@@ -42,7 +42,7 @@ export default function Result() {
           try {
             const transaction = await contract.withdrawToWinner();
             await transaction.wait();
-            fetchData()
+            
             }
             
             
