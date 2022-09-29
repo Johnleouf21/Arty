@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ethers } from 'ethers';
 import Head from 'next/head';
 import Contract from '../artifacts/contracts/DefiLottery.sol/DefiLottery.json';
@@ -105,7 +106,7 @@ async function getAccounts() {
         <meta name="description" content="The red paws club project, A true passive income NFT, The easy way of earning money" />
         <link rel="icon" href="/favicon.ico" />
             </Head>
-            <>
+            
   <header>
     <nav>
       <ul>
@@ -215,10 +216,12 @@ async function getAccounts() {
     <div className="marketplace">
       <div className="marketplace-photo-nft">
         <div className="marketplace-photo-nft-border">
-          <img
+          <Image
             className="marketplace-photo-nft-border-1"
-            src="image/discordpdp.png"
+            src="/image/discordpdp.png"
             alt="bob"
+            width={700}
+            height={700}
           />
         </div>
       </div>
@@ -274,7 +277,7 @@ async function getAccounts() {
             <div className="btn-marketplace-ul-text-line" />
           </div>
           <div className="btn-marketplace-mint">
-            <button className="btn-mint">Acheter</button>
+            <button className="btn-mint" onClick={mint} >Acheter</button>
           </div>
         </ul>
       </div>
@@ -343,7 +346,7 @@ async function getAccounts() {
       </div>
     </div>
   </footer>
-</>
+
 
         </div >
     )

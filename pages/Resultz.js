@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ethers } from 'ethers';
 import Head from 'next/head';
 import Contract from '../artifacts/contracts/DefiLottery.sol/DefiLottery.json';
@@ -202,10 +203,12 @@ async function getAccounts() {
                 <div className="marketplace">
                   <div className="marketplace-photo-nft">
                     <div className="marketplace-photo-nft-border">
-                      <img
+                      <Image
                         className="marketplace-photo-nft-border-1"
-                        src="image/discordpdp.png"
+                        src="/image/discordpdp.png"
                         alt="bob"
+                        width={700}
+                        height={700}
                       />
                     </div>
                   </div>
