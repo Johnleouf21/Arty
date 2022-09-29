@@ -215,7 +215,7 @@ export default function Home() {
                 <p>
                   La blockchain et le web 3.0 nous offrent la possibilité de garantir
                   la sécurité d&apos;une loterie fiable et sécurisée grâce à l&apos;utilisation
-                  d'un contrat intelligent (smart contract en anglais) Le contrat
+                  d&apos;un contrat intelligent (smart contract en anglais) Le contrat
                   intelligent sera déployé, l&apos;argent des monnaies sera{" "}
                   <strong>sécurisé</strong> sur le contrat intelligent. Afin de
                   garantir une transparence totale, le code du contrat intelligent
