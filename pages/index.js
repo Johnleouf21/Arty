@@ -151,9 +151,9 @@ export default function Home() {
                   nous utilisons les technologies de la{" "}
                   <strong>BLOCKCHAIN et des NFTs</strong>.Les NFTs DeFi Lottery{" "}
                   <strong>NE SONT PAS de simples png,jpeg</strong>,ce sont des{" "}
-                  <strong>tickets d'entré</strong> à une lotterie hebdomadaire ! Après
+                  <strong>tickets d&apos;entré</strong> à une lotterie hebdomadaire ! Après
                   le tirage,vous pouvez garder <strong>VOS NFTs, VOS tickets</strong>
-                  .Une fois un gagnant tiré de façon <strong>"automatique"</strong>,
+                  .Une fois un gagnant tiré de façon <strong>&quot;automatique&quot;</strong>,
                   et de façon à ce que{" "}
                   <strong>PERSONNE NE PEUT INFLUENCER LE RESULTAT</strong>, le gagnant
                   recevr ses gains <strong>AUTOMATIQUEMENT ET DIRECTEMENT</strong>{" "}
@@ -192,7 +192,7 @@ export default function Home() {
                   <strong className="linkText">
                     <a href="#">ici</a>
                   </strong>
-                  ) et sur le discord à l'heure du tirage.
+                  ) et sur le discord à l&apos;heure du tirage.
                 </p>
               </div>
             </div>
@@ -214,9 +214,9 @@ export default function Home() {
               <div className="textParagrapheLeft">
                 <p>
                   La blockchain et le web 3.0 nous offrent la possibilité de garantir
-                  la sécurité d'une loterie fiable et sécurisée grâce à l'utilisation
+                  la sécurité d&apos;une loterie fiable et sécurisée grâce à l&apos;utilisation
                   d'un contrat intelligent (smart contract en anglais) Le contrat
-                  intelligent sera déployé, l'argent des monnaies sera{" "}
+                  intelligent sera déployé, l&apos;argent des monnaies sera{" "}
                   <strong>sécurisé</strong> sur le contrat intelligent. Afin de
                   garantir une transparence totale, le code du contrat intelligent
                   sera
@@ -248,11 +248,11 @@ export default function Home() {
                 <p>
                   Le mint de NFT se fera sur <strong>notre site</strong> dans la
                   section marketplace NFT que vous pouvez retouver juste au-dessus
-                  L'argent des mint sera imméditament stocké sur le smart contract
+                  L&apos;argent des mint sera imméditament stocké sur le smart contract
                   suite à votre achat,sans intermédiaire,et vos fonds seront{" "}
                   <strong>sécurisés</strong>
                   Vous pouvez le voir sur le smart contract,nous ne pouvons que nous
-                  verser nos parts repspectives à l'aide de{" "}
+                  verser nos parts repspectives à l&apos;aide de{" "}
                   <strong>PaymentSplitter</strong>,ce qui va faciliter nos dû...
                 </p>
               </div>
@@ -278,7 +278,7 @@ export default function Home() {
                 </h3>
                 <h4 className="footer-presentation-defi-h4">
                   DeFi Lottery, lotterie basé sur la technologie blockchain et
-                  sécurisé via l'utiisation d'un smart contract
+                  sécurisé via l&apos;utiisation d&apos;un smart contract
                 </h4>
               </div>
             </div>

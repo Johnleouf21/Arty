@@ -230,7 +230,7 @@ async function getAccounts() {
           <div className="btn-marketplace-ul-text-mint">
             <h2>Mint Ticket</h2>
             <p className="btn-marketplace-ul-presentationtext-h1-supply">
-            {data.MAX_SUPPLY - data.totalSupply} tickets NFT's restants
+            {data.MAX_SUPPLY - data.totalSupply} tickets NFT&apos;s restants
             </p>
           </div>
           <div className="btn-marketplace-ul-text-balance">
@@ -293,7 +293,7 @@ async function getAccounts() {
           </h3>
           <h4 className="footer-presentation-defi-h4">
             DeFi Lottery, lotterie basée sur la technologie blockchain et
-            sécurisée grâce à l'utilisation d'un contrat intelligent
+            sécurisée grâce à l&apos;utilisation d&apos;un contrat intelligent
           </h4>
         </div>
       </div>

@@ -217,7 +217,7 @@ async function getAccounts() {
                       <div className="btn-marketplace-ul-text-mint">
                         <h2>Resultats</h2>
                         <p className="btn-marketplace-ul-presentationtext-h1-supply">
-                          Etes vous l'heureux gagnant ?
+                          Etes vous l&apos;heureux gagnant ?
                         </p>
                       </div>
                       <div className="btn-marketplace-ul-text-balance">
@@ -264,7 +264,7 @@ async function getAccounts() {
                       </h3>
                       <h4 className="footer-presentation-defi-h4">
                         DeFi Lottery, lotterie basée sur la technologie blockchain et
-                        sécurisée grâce à l'utilisation d'un contrat intelligent
+                        sécurisée grâce à l&apos;utilisation d&apos;un contrat intelligent
                       </h4>
                     </div>
                   </div>
