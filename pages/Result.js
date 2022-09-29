@@ -107,6 +107,7 @@ async function getAccounts() {
                     <div className={styles.marketplace}>
                         <div className={styles.marketplacephotonft}>
                             <div className={styles.marketplacephotonftborder}>
+                            <Image className={styles.marketplacephotonftborder1} src="/discordpdp.png" alt="bob" width={800} height={600}/>
                             </div>
                         </div>
                         <div className={styles.btnmarketplace}>

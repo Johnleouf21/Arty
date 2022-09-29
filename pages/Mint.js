@@ -112,14 +112,15 @@ async function getAccounts() {
             <InfosAccount accounts={accounts} balance={balance} loader={loader}/>
 
             
-                <section className="fontImg1">
-                    <div className="banner-information">
+                <section className={styles.fontImg1}>
+                    <div className={styles.bannerinformation}>
 
 
                     </div>
                     <div className={styles.marketplace}>
                         <div className={styles.marketplacephotonft}>
                             <div className={styles.marketplacephotonftborder}>
+                            <Image className={styles.marketplacephotonftborder1} src="/discordpdp.png" alt="bob" width={800} height={600}/>
                             </div>
                         </div>
                         <div className={styles.btnmarketplace}>
