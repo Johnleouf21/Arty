@@ -100,7 +100,7 @@ export default function Mintz() {
   const [ammount, setAmmount] = useState(1);
   const [loader, setLoader] = useState(true);
   const [balance, setBalance] = useState();
-  const addressDL = "0x186f3B65Fd1Fad0811e3c03664ceF464E74eFEc8";
+  const addressDL = "0x2eF4020845a4E4E942104F5Ad17C189d117Fc53a";
 
   const connect = useCallback(async function() {
     // This is the initial `provider` that is returned when
