@@ -11,7 +11,7 @@ import Contract from '../artifacts/contracts/DefiLottery.sol/DefiLottery.json';
 
 
 /// L'address du contrat
-const address = "0x4da268C28C3d4675Db77ac815417824791204d63";
+const address = "0xfd36beb8C04e00d5FA10635Dba784e3dEa385345";
 
 export default function Resultz() {
 

@@ -555,6 +555,7 @@ p {
 .btn-marketplace-ul-text-void {
     width: 100%;
     height: 100%;
+    font-size: inherit;
 }
 
 .btn-marketplace-ul-text-container {
@@ -564,7 +565,7 @@ p {
     height: 75px;
     font-family: 'Koulen', cursive;
     font-size: 18px;
-    margin: 15px 30px 15px 30px
+    margin: 15px 0px 15px 30px
 }
 /* // BALANCE  */
 
